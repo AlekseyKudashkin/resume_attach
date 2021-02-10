@@ -1,0 +1,13 @@
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.exe
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.deps.json
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.json
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.dev.json
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.dll
+C:\Users\fenix\Desktop\Patterns\State\State\State\bin\Debug\netcoreapp3.1\State.pdb
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.csprojAssemblyReference.cache
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.csproj.CoreCompileInputs.cache
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.dll
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.pdb
+C:\Users\fenix\Desktop\Patterns\State\State\State\obj\Debug\netcoreapp3.1\State.genruntimeconfig.cache

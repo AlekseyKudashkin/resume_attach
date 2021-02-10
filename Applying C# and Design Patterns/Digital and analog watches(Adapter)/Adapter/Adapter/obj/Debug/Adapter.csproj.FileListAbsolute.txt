@@ -1,0 +1,11 @@
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.Form1.resources
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.GenerateResource.cache
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\fenix\Desktop\Patterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.Form2.resources
